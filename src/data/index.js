@@ -27,9 +27,9 @@ export const HandcraftedCurations = [
         link: "BestSeller"
     },
     {
-        title: "Drinks",
-        img: drinks,
-        link: "Drinks"
+        title: "Cofee",
+        img: cofee,
+        link: "Cofee"
     },
     {
         title: "Food",
