@@ -1,5 +1,5 @@
 import BestSeller from "../assests/img/Bestseller.jpg"
-import drinks from "../assests/img/Tea.jpg"
+import drinks from "../assests/img/Drinks.jpg"
 import food from "../assests/img/Food.jpg"
 import merchandise from "../assests/img/Merchandise.jpg"
 import coffeeAtHome from "../assests/img/CoffeeAtHome.jpg"
@@ -27,9 +27,9 @@ export const HandcraftedCurations = [
         link: "BestSeller"
     },
     {
-        title: "Tea",
-        img: tea,
-        link: "Tea"
+        title: "Filter tea",
+        img: drinks,
+        link: "Drinks"
     },
     {
         title: "Food",
