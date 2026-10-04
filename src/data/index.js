@@ -29,7 +29,7 @@ export const HandcraftedCurations = [
     {
         title: "Filter tea",
         img: drinks,
-        link: "Drinks"
+        link: "drinks"
     },
     {
         title: "Food",
