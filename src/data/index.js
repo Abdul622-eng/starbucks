@@ -1,5 +1,5 @@
 import BestSeller from "../assests/img/Bestseller.jpg"
-import drinks from "../assests/img/Drinks.jpg"
+import drinks from "../assests/img/drinks.jpg"
 import food from "../assests/img/Food.jpg"
 import merchandise from "../assests/img/Merchandise.jpg"
 import coffeeAtHome from "../assests/img/CoffeeAtHome.jpg"
